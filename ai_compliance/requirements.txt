@@ -9,3 +9,4 @@ react
 react-dom
 vite
 axios
+tailwindcss
