@@ -1,4 +1,15 @@
-:root {
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg {
+  background-color: #02000b;
+}
+.text-color {
+  color: #f0eef6;
+}
+
+/* :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
@@ -65,4 +76,4 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
-}
+} */
